@@ -1,5 +1,3 @@
-Start Project
-
 Introduction
 
 Purpose
